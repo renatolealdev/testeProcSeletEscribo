@@ -5,7 +5,7 @@ import 'controller/receive_number_and_check.dart';
 //Porta de entrada de qualquer aplicação Dart/Flutter
 void main() {
   print(
-      "Informe um número INTEIRO e POSITIVO: "); //Solicita o número ao usuário
+      "\n\n - Informe um número INTEIRO e POSITIVO: \n"); //Solicita o número ao usuário
   final numeroInformado =
       stdin.readLineSync().toString(); //Lê o número informado pelo usuário
 

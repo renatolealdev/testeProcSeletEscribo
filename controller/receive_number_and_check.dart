@@ -21,7 +21,8 @@ receiveNumberAndCheck({String numInfo = ""}) {
 
   for (var items in listTryParse) {
     if (items == null) {
-      return print("  *** NÚMERO INVÁLIDO ***\n -→ Reinicie o algoritmo ←-");
+      return print(
+          "\n\n  *** NÚMERO INVÁLIDO ***\n  → Reinicie o algoritmo ← \n\n\n");
     } else {
       numberOnlyInt = listTryParse.join();
     }
