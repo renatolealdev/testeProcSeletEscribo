@@ -9,4 +9,19 @@
    -  ##### Para executar o projeto em seu Windows/Linus/Mac, instale o SDK do Dart, conforme orientação neste link: https://dart.dev/get-dart
    -  ##### Após a instalação do SDK, baixe o repositório deste projeto em sua máquina, abra o terminal, caminhe até o diretório onde salvou o repositório e execute o seguinte comando: ' dart run main.dart '
 
-### Abaixo ↓, deixo alguns prints explicativos do código fonte do projeto:
+### Abaixo ↓, deixo um vídeo do algoritmo em execução e alguns prints explicativos do código fonte do projeto:
+
+
+
+![main](https://user-images.githubusercontent.com/88440878/151158055-f3399b96-b25e-48c0-9b20-dfeea00cb4a2.png)
+
+![controller_receive](https://user-images.githubusercontent.com/88440878/151158204-093b1fb6-8c6d-4146-9654-ebde3edd8976.png)
+
+![model_predecessors](https://user-images.githubusercontent.com/88440878/151158226-4f7be917-eaa2-4e04-8ca5-fdf0ca91425e.png)
+
+![model_check_module3and5](https://user-images.githubusercontent.com/88440878/151158245-19c5323c-fa2a-4232-948a-431d140d350d.png)
+
+![model_sum](https://user-images.githubusercontent.com/88440878/151158262-04f21c91-32a3-4928-a322-da4efa256455.png)
+
+![view_result_final](https://user-images.githubusercontent.com/88440878/151158273-81d9b70b-a224-4b62-ae74-8f6602a7a624.png)
+
