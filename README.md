@@ -10,3 +10,5 @@
    -  ##### Após a instalação do SDK, baixe o repositório deste projeto em sua máquina, abra o terminal, caminhe até o diretório onde salvou o repositório e execute o seguinte comando: ' dart run main.dart '
 
 ### Abaixo ↓, deixo alguns prints explicativos do código fonte do projeto:
+
+![main](https://user-images.githubusercontent.com/88440878/151158055-f3399b96-b25e-48c0-9b20-dfeea00cb4a2.png)
