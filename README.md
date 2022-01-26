@@ -9,7 +9,7 @@
    -  ##### Para executar o projeto em seu Windows/Linus/Mac, instale o SDK do Dart, conforme orientação neste link: https://dart.dev/get-dart
    -  ##### Após a instalação do SDK, baixe o repositório deste projeto em sua máquina, abra o terminal, caminhe até o diretório onde salvou o repositório e execute o seguinte comando: ' dart run main.dart '
 
-### Abaixo ↓, deixo alguns prints explicativos do código fonte do projeto:
+### Abaixo ↓, deixo um vídeo do algoritmo em execução e alguns prints explicativos do código fonte do projeto:
 
 
 
